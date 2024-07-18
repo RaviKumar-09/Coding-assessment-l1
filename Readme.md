@@ -56,7 +56,7 @@ To get a local copy of the project up and running, follow these steps:
 
 
 ## Acknowledgements
-- Marneto providing the assignment and document
+- Marmeto providing the assignment and document
 
 ## Contact
 
