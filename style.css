@@ -129,3 +129,20 @@ h1 {
 .product-card .add-to-cart:hover {
   background-color: #444;
 }
+@media (max-width: 767px) {
+  .product-card {
+    width: 100%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .product-card {
+    width: 48%;
+  }
+}
+
+@media (min-width: 1025px) {
+  .product-card {
+    width: 23%;
+  }
+}
