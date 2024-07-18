@@ -36,7 +36,7 @@ The following resources were used in this project:
 
 ## Live Demo
 
-The live demo of the project can be viewed [here](https://ravikumar-09.github.io/Web_Development_Assignment-Fyle/).
+The live demo of the project can be viewed [here](https://ravikumar-09.github.io/Coding-assessment-l1/).
 
 ## Getting Started
 
