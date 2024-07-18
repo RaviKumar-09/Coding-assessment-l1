@@ -13,7 +13,9 @@ This repository contains the solution for the Frontend Intern position at Marmet
 ## Project Overview
 =======
 # Frontend Intern position at Marmeto
+
 Coding Assessment L1 for the Frontend Intern position at Marmeto
+
 This repository contains the solution for the Coding Assessment L1 for the Frontend Intern position at Marmeto. The project is built using HTML, CSS, and JavaScript.
 
 The objective of this assignment was to create a E-commerce web page based on the requirements provided by Marmeto. I have utilized various resources to gather images, logos, and other necessary assets to complete the project. The final project is published using GitHub Pages.
