@@ -161,5 +161,6 @@ function showCategory(categoryName) {
     });
 }
 
+
 // Initialize with the first category
 showCategory('Men');
